@@ -20,7 +20,7 @@ recipes:
 #- gnip::mysql
 
 # apps
-- sprout-osx-apps::java7
+- sprout-osx-apps::java
 - sprout-osx-apps::iterm2
 
 #- gnip::intellij
