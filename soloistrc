@@ -20,9 +20,8 @@ recipes:
 #- gnip::mysql
 
 # apps
+- sprout-osx-apps::java7
 - sprout-osx-apps::iterm2
-
-# apps (editors)
 
 #- gnip::intellij
 
@@ -31,11 +30,11 @@ recipes:
 node_attributes:
   rvm:
     rubies:
-      :ruby-2.0.0-p353
+      ruby-2.0.0-p353:
         command_line_options: "--verify-downloads 1"
-      :jruby-1.7.10
+      jruby-1.7.10:
         command_line_options: "--verify-downloads 1"
-      :ruby-1.9.3-p484
+      ruby-1.9.3-p484:
         command_line_options: "--verify-downloads 1"
     default_ruby:
       ruby-2.0.0-p353
@@ -46,11 +45,6 @@ node_attributes:
   sprout:
     homebrew:
       casks:
-        - bettertouchtool
-        - dropbox
-        - firefox
-        - gitx-rowanj
-        - google-chrome
-        - skype
-        - vagrant
-        - virtualbox
+        - intellij-idea-ultimate
+        - sequel-pro
+        - cyberduck
