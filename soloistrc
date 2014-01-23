@@ -14,7 +14,7 @@ recipes:
 
 # development (general)
 - sprout-osx-base::workspace_directory
-- pivotal_workstation::unix_essentials
+#- pivotal_workstation::unix_essentials
 - sprout-osx-git::git_projects
 - pivotal_workstation::git_config_global_defaults
 - sprout-osx-git::git_scripts
@@ -26,17 +26,17 @@ recipes:
 - pivotal_workstation::postgres
 - sprout-osx-apps::imagemagick
 - sprout-osx-apps::node_js
-- sprout-osx-apps::qt
+#- sprout-osx-apps::qt
 
 # apps
 - pivotal_workstation::screen_sharing_app
 - sprout-osx-apps::shiftit
 - pivotal_workstation::mouse_locator
 - sprout-osx-apps::menumeters
-- sprout-osx-apps::ccmenu
+#- sprout-osx-apps::ccmenu
 - pivotal_workstation::github_for_mac
 - sprout-osx-apps::iterm2
-- sprout-osx-apps::keycastr
+#- sprout-osx-apps::keycastr
 
 # apps (editors)
 - sprout-osx-apps::textmate
@@ -46,8 +46,8 @@ recipes:
 - sprout-osx-apps::macvim
 - sprout-osx-apps::ctags_exuberant
 
-- sprout-osx-apps::rubymine
-- sprout-osx-rubymine::preferences
+#- sprout-osx-apps::rubymine
+#- sprout-osx-rubymine::preferences
 
 - sprout-homebrew
 
