@@ -39,5 +39,9 @@ cookbook 'sprout-osx-rubymine',
   :git => 'git://github.com/ewryan/sprout.git',
   :path => 'sprout-osx-rubymine'
 
+cookbook 'sprout-osx-gnip',
+  :git => 'git://github.com/ewryan/sprout.git',
+  :path => 'sprout-osx-gnip'
+
 cookbook 'sprout-homebrew',
   :git => 'git://github.com/pivotal-sprout/sprout-homebrew.git'
