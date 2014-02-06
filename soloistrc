@@ -48,5 +48,3 @@ node_attributes:
         - libyaml
       casks:
         - intellij-idea-ultimate
-        - sequel-pro
-        - cyberduck
