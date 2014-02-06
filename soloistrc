@@ -14,9 +14,10 @@ recipes:
 - sprout-osx-git::git_projects
 - pivotal_workstation::git_config_global_defaults
 
+- sprout-homebrew
+
 # development (rails)
-- pivotal_workstation::rvm
-- pivotal_workstation::gem_setup
+- sprout-osx-gnip::rvm
 #- gnip::mysql
 
 # apps
@@ -24,8 +25,6 @@ recipes:
 - sprout-osx-apps::iterm2
 
 #- gnip::intellij
-
-- sprout-homebrew
 
 node_attributes:
   versions:
@@ -45,6 +44,8 @@ node_attributes:
       - https://github.com/pivotal-sprout/sprout-wrap.git
   sprout:
     homebrew:
+      formulae:
+        -libyaml
       casks:
         - intellij-idea-ultimate
         - sequel-pro
