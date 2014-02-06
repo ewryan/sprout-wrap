@@ -28,6 +28,9 @@ recipes:
 - sprout-homebrew
 
 node_attributes:
+  versions:
+    rvm: c8714ab103a323e0f6a77759300263a6f6acdd3f
+
   rvm:
     rubies:
       ruby-2.0.0-p353:
