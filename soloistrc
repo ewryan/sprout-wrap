@@ -29,7 +29,7 @@ recipes:
 
 node_attributes:
   versions:
-    rvm: c8714ab103a323e0f6a77759300263a6f6acdd3f
+    rvm: 18048d56515699dc8f97f1a85f36526b87b4a721
 
   rvm:
     rubies:
