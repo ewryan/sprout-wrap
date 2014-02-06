@@ -45,7 +45,7 @@ node_attributes:
   sprout:
     homebrew:
       formulae:
-        -libyaml
+        - libyaml
       casks:
         - intellij-idea-ultimate
         - sequel-pro
