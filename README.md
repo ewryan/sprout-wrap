@@ -37,7 +37,11 @@ If you're running under rvm or rbenv, you shouldn't preface the following comman
     sudo gem install bundler
     sudo bundle
 
-### 5. Run soloist
+### 5. Set up ssh key for github
+
+    [Follow these instructions](https://help.github.com/articles/generating-ssh-keys)
+
+### 6. Run soloist
 
 [You may want to modify your Energy Saver preferences (**System Preferences &rarr; Energy Saver &rarr; Computer Sleep &rarr; 3hrs**) because soloist usually takes 2-3 hours to complete.]
 
