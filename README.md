@@ -43,7 +43,7 @@ If you're running under rvm or rbenv, you shouldn't preface the following comman
 
 ### 6. Run soloist
 
-[You may want to modify your Energy Saver preferences (**System Preferences &rarr; Energy Saver &rarr; Computer Sleep &rarr; 3hrs**) because soloist usually takes 2-3 hours to complete.]
+[Note that this should take ~30 minutes or less to complete.  You'll be asked to enter your sudo password a few times along the way.]
 
     bundle exec soloist
 
