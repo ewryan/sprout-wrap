@@ -15,6 +15,10 @@ Finally, if you've never used Chef before - we highly recommend you buy &amp; wa
 
 ## Installation under Mavericks (OS X 10.9)
 
+### 0. Backup you SSH Keys
+
+...so that ops does not have to redeploy the base package.
+
 ### 1. Install XCode
 
 [![Xcode - Apple](http://r.mzstatic.com/images/web/linkmaker/badge_macappstore-lrg.gif)](https://itunes.apple.com/us/app/xcode/id497799835?mt=12&uo=4)
