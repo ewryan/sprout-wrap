@@ -39,7 +39,7 @@ If you're running under rvm or rbenv, you shouldn't preface the following comman
 
 ### 5. Set up ssh key for github
 
-    [Follow these instructions](https://help.github.com/articles/generating-ssh-keys)
+[Follow these instructions](https://help.github.com/articles/generating-ssh-keys)
 
 ### 6. Run soloist
 
