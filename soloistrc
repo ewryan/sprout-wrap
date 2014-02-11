@@ -18,7 +18,7 @@ recipes:
 
 # development (rails)
 - sprout-osx-gnip::rvm
-#- gnip::mysql
+- gnip::mysql
 
 # apps
 - sprout-osx-apps::java
