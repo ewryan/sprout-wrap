@@ -32,8 +32,6 @@ Don't forget to start up Xcode once it's installed so that you can agree to the 
 
 ### 4. Install soloist & and other required gems
 
-If you're running under rvm or rbenv, you shouldn't preface the following commands with `sudo`.
-
     sudo gem install bundler
     sudo bundle
 
