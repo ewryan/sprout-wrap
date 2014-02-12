@@ -8,7 +8,7 @@ GIT
   remote: git://github.com/ewryan/sprout.git
   path: osx
   ref: master
-  sha: d2fac85652a2be7c63d7c921892da1bbe90ce6f5
+  sha: 7940bb53fb4a8037b9bf0f070f7692830d5f699e
   specs:
     osx (0.1.0)
 
@@ -16,7 +16,7 @@ GIT
   remote: git://github.com/ewryan/sprout.git
   path: pivotal_workstation
   ref: master
-  sha: d2fac85652a2be7c63d7c921892da1bbe90ce6f5
+  sha: 7940bb53fb4a8037b9bf0f070f7692830d5f699e
   specs:
     pivotal_workstation (1.0.0)
       dmg (>= 0.0.0)
@@ -31,7 +31,7 @@ GIT
   remote: git://github.com/ewryan/sprout.git
   path: sprout-osx-apps
   ref: master
-  sha: d2fac85652a2be7c63d7c921892da1bbe90ce6f5
+  sha: 7940bb53fb4a8037b9bf0f070f7692830d5f699e
   specs:
     sprout-osx-apps (0.1.0)
       dmg (>= 0.0.0)
@@ -43,7 +43,7 @@ GIT
   remote: git://github.com/ewryan/sprout.git
   path: sprout-osx-base
   ref: master
-  sha: d2fac85652a2be7c63d7c921892da1bbe90ce6f5
+  sha: 7940bb53fb4a8037b9bf0f070f7692830d5f699e
   specs:
     sprout-osx-base (0.1.0)
 
@@ -51,7 +51,7 @@ GIT
   remote: git://github.com/ewryan/sprout.git
   path: sprout-osx-git
   ref: master
-  sha: d2fac85652a2be7c63d7c921892da1bbe90ce6f5
+  sha: 7940bb53fb4a8037b9bf0f070f7692830d5f699e
   specs:
     sprout-osx-git (0.1.0)
       homebrew (>= 0.0.0)
@@ -61,7 +61,7 @@ GIT
   remote: git://github.com/ewryan/sprout.git
   path: sprout-osx-gnip
   ref: master
-  sha: d2fac85652a2be7c63d7c921892da1bbe90ce6f5
+  sha: 7940bb53fb4a8037b9bf0f070f7692830d5f699e
   specs:
     sprout-osx-gnip (0.1.0)
       dmg (>= 0.0.0)
@@ -72,7 +72,7 @@ GIT
   remote: git://github.com/ewryan/sprout.git
   path: sprout-osx-rbenv
   ref: master
-  sha: d2fac85652a2be7c63d7c921892da1bbe90ce6f5
+  sha: 7940bb53fb4a8037b9bf0f070f7692830d5f699e
   specs:
     sprout-osx-rbenv (0.1.0)
       homebrew (>= 0.0.0)
@@ -82,7 +82,7 @@ GIT
   remote: git://github.com/ewryan/sprout.git
   path: sprout-osx-rubymine
   ref: master
-  sha: d2fac85652a2be7c63d7c921892da1bbe90ce6f5
+  sha: 7940bb53fb4a8037b9bf0f070f7692830d5f699e
   specs:
     sprout-osx-rubymine (0.1.0)
       homebrew (>= 0.0.0)
@@ -93,7 +93,7 @@ GIT
   remote: git://github.com/ewryan/sprout.git
   path: sprout-osx-settings
   ref: master
-  sha: d2fac85652a2be7c63d7c921892da1bbe90ce6f5
+  sha: 7940bb53fb4a8037b9bf0f070f7692830d5f699e
   specs:
     sprout-osx-settings (0.1.0)
       homebrew (>= 0.0.0)
@@ -104,7 +104,7 @@ GIT
   remote: git://github.com/ewryan/sprout.git
   path: sprout-pivotal
   ref: master
-  sha: d2fac85652a2be7c63d7c921892da1bbe90ce6f5
+  sha: 7940bb53fb4a8037b9bf0f070f7692830d5f699e
   specs:
     sprout-pivotal (0.1.0)
       dmg (>= 0.0.0)
