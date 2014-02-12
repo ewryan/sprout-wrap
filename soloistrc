@@ -45,6 +45,15 @@ node_attributes:
     -
       - sprout-wrap
       - https://github.com/pivotal-sprout/sprout-wrap.git
+    -
+      - gnip-fanout
+      - git@github.com:gnip/gnip-fanout.git
+    -
+      - gnip-feederator
+      - git@github.com:gnip/gnip-feederator.git
+    -
+      - gnip-adminerator
+      - git@github.com:gnip/gnip-adminerator.git
   sprout:
     homebrew:
       formulae:
