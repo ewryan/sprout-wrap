@@ -17,7 +17,7 @@ Finally, if you've never used Chef before - we highly recommend you buy &amp; wa
 
 ### 0. Backup you SSH Keys
 
-...so that ops does not have to redeploy the base package.
+If you're starting by wiping your machine please be sure to back up your ssh keys so that ops does not have to redeploy the base package.
 
 ### 1. Install XCode
 
@@ -41,7 +41,10 @@ Don't forget to start up Xcode once it's installed so that you can agree to the 
 
 ### 5. Set up ssh key for github
 
+Make sure that you're a member of the Gnip organization on github
+
 [Follow these instructions](https://help.github.com/articles/generating-ssh-keys)
+
 
 ### 6. Run soloist
 
