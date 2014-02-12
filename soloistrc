@@ -16,13 +16,13 @@ recipes:
 
 - sprout-homebrew
 
-# development (rails)
+# development
 - sprout-osx-gnip::rvm
 - sprout-osx-gnip::mysql
 - sprout-osx-gnip::intellij_12_ultimate
 
 # apps
-- sprout-osx-apps::java
+- sprout-osx-gnip::java
 - sprout-osx-apps::iterm2
 
 #- gnip::intellij
